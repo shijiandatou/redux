@@ -11,10 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/shijiandatou/router4.git"
   },
-  "keywords": [
-    "liu921012"
-  ],
-  "author": "shijiandatou",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shijiandatou/router4/issues"
