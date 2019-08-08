@@ -7,7 +7,7 @@ import {createStore} from './redux';
 import counter from './reducers/counter'; 
 
 let store =createStore(counter);
-
+console.log(213123);
 ReactDOM.render(
 <Provider store={store}>
     <Counter2/>
