@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/shijiandatou/router4#readme",
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
